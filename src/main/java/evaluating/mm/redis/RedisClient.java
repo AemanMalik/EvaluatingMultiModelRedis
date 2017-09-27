@@ -24,6 +24,9 @@ public class RedisClient {
 	
 	public static void read () {
 		Set<String> keys = jedis.keys("*");
+		keys.clear();
+		keys.add("1");
+		keys.add("2");
 		Iterator<String> it = keys.iterator();
 		while (it.hasNext()) {
 			String key= it.next();
@@ -39,7 +42,7 @@ public class RedisClient {
 	
 	public static void convertToDocument() {
 		redis.entrySet().forEach(entry->{
-			JReJSON.set(jedis,entry.getKey(), entry.getValue());
+			JReJSON.set(jedis, entry.getKey().toString()+"3", entry.getValue());
 		});
 		
 	}
@@ -54,7 +57,7 @@ public class RedisClient {
 		startTime=System.nanoTime();
 		read();
 		convertToDocument();
-		endTime=startTime-System.nanoTime();
+		endTime=System.nanoTime()-startTime;
 		System.out.println("Total duration = "+endTime);
 		cleanup();
 	}
