@@ -1,0 +1,20 @@
+Key:
+"P572469"
+Value:
+{"public":0,"completion_percentage":12,"gender":0,"AGE":0,"region":"zilinsky kraj, liptovsky mikulas","last_login":"2012-05-21 17:31:00.0","registration":"2010-07-04 00:00:00.0"}
+
+Key:
+"P933630"
+Value:
+{"public":1,"completion_percentage":14,"gender":1,"AGE":25,"region":"kosicky kraj, kosice - stare mesto","last_login":"2012-04-28 14:33:00.0","registration":"2008-11-26 00:00:00.0","music":"<div> <a title=\"vstup do klubu\" href=\"/klub/gypsi-diny-kosice\">gypsi diny kosice</a> </div>"},
+
+Key:
+"P132198"
+Value:
+{"public":0,"completion_percentage":12,"gender":1,"AGE":26,"region":"trnavsky kraj, piestany","last_login":"2011-07-24 13:59:00.0","registration":"2006-11-12 00:00:00.0"},
+
+Key:
+"P204695"
+Value:
+{"public":1,"completion_percentage":45,"gender":1,"AGE":18,"hobbies":"spanok","eye_color":"hnede","I_like_music":"vsetko","my_active_sports":"futbal","my_passive_sports":"vsetko","region":"presovsky
+kraj, humenne","last_login":"2012-05-22 17:25:00.0","registration":"2006-09-08 00:00:00.0","I_most_enjoy_good_food":"pri telke, v posteli","pets":"mam psa","my_eyesight":"vyborny","sign_in_zodiac":"kozorozec","on_pokec_i_am_looking_for":"niekoho na chatovanie","relation_to_casual_sex":"to skutocne zalezi len na okolnostiach","my_partner_should_be":"mojou chybajucou polovickou","marital_status":"slobodny(a)","relation_to_children":"v buducnosti chcem mat deti","I_like_movies":"akcne, komedie, vojnove, eroticke","I_like_watching_movie":"v kine, u priatela, priatelky","I_mostly_like_listening_to_music":"kedykolvek a kdekolvek","I_like_specialties_from_kitchen":"slovenskej,talianskej","I_like_books":"necitam knihy"},
