@@ -59,7 +59,7 @@ private static Jedis jedis;
 					while((line = in.readLine()) != null)
 					{	
 						count++;
-						if (count< 0){
+						if (count<0){
 							//do nothing
 						}
 						else{
@@ -115,7 +115,7 @@ private static Jedis jedis;
 						while((line = in.readLine()) != null)
 						{	
 							count++;
-							if (count< 0){
+							if (count> 100000){
 								//do nothing
 							}
 							else{
